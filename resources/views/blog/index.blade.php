@@ -49,11 +49,11 @@
                         <hr>
                         <div style="text-align: center;">
                             <img  style="width:35%;border-radius:50%;"  src="{{ asset('img/my_avatar_big.jpg') }}">
-                            <div style="margin-bottom:5px;"><strong>Sampson</strong></div>
+                            <div style="margin-bottom:5px;"><strong>徐小鹏</strong></div>
                             不溺过去，不惧未来<br>
-                            <a target="_blank" href="https://github.com/xingxingxx">Github</a>&nbsp;|&nbsp;
+                            <a target="_blank" href="https://github.com/xuxiao-peng">Github</a>&nbsp;|&nbsp;
                             <a target="_blank" href="http://weibo.com/u/3026783454">微博</a>&nbsp;|&nbsp;
-                            <a target="_blank" href="Mailto:xx9815@qq.com">邮箱</a> |
+                            <a target="_blank" href="Mailto:1115007981@qq.com">邮箱</a> |
                             <a target="_blank" href="{{ asset('img/wechat_contact.jpeg') }}">微信</a> |
                             <a target="_blank" href="{{ asset('img/qq_contact.jpeg') }}">QQ</a>
                         </div>
