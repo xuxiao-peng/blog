@@ -127,9 +127,9 @@
             <div class="card" style="margin-top:20px;text-align:center;">
                 <div class="card-body" style="padding:15px;">
                     Copyright © 2018
-                    <a target="_blank" href="https://xiaoxingping.top">Sampson的博客</a>&nbsp;|
+                    <a target="_blank" href="https://xiaoxingping.top">徐小鹏的博客</a>&nbsp;|
                     <a target="_blank" href="http://www.miitbeian.gov.cn">粤ICP备17155556号</a>&nbsp;|
-                    Powered by <a target="_blank" href="https://github.com/xingxingxx/my-blog-new">Sampson</a>
+                    Powered by <a target="_blank" href="https://github.com/xuxiao-peng/blog">徐小鹏</a>
                 </div>
             </div>
         </footer>
