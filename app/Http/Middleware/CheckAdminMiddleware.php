@@ -16,6 +16,7 @@ class CheckAdminMiddleware
      */
     public function handle($request, Closure $next)
     {
+        // 如果是想进就看看是否是当前管理员
         if (Auth::user()->is_admin) {
 
             return $next($request);

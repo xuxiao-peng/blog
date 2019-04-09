@@ -60,9 +60,7 @@ class MarkdownController extends Controller
         $data = array(
             'success' => empty(self::getLastError()) ? 1 : 0,
             'message' => self::getLastError() ?: 'success',
-            'url'     => isset(self::$_url[config('markdowneditor.default')])
-            && empty(self::getLastError())
-                ? self::$_url[config('markdowneditor.default')] : ''
+            'url'     =>self::$_url[config('markdowneditor.default')]
         );
         return $data;
     }
